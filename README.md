@@ -1,1 +1,3 @@
-- Master Build Status [![Build Status](https://travis-ci.com/Fraser83/SofEngMet.svg?branch=master)](https://travis-ci.com/Fraser83/SofEngMet)
+- Master Build Status [![Build Status](https://travis-ci.org/Fraser83/SofEngMet.svg?branch=master)](https://travis-ci.org/Fraser83/SofEngMet)
+- License [![LICENSE](https://img.shields.io/github/license/Fraser83/SofEngMet.svg?style=flat-square)](https://github.com/Fraser83/SofEngMet/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/Fraser83/SofEngMet/all.svg?style=flat-square)](https://github.com/kFraser83/SofEngMet/releases)
