@@ -1,1 +1,1 @@
-Test
+- Master Build Status [![Build Status](https://travis-ci.com/Fraser83/SofEngMet.svg?branch=master)](https://travis-ci.com/Fraser83/SofEngMet)
